@@ -22,6 +22,7 @@ local filetypes = {
     "typescript",
     "javascriptreact",
     "typescriptreact",
+    "ruby",
   },
   luapattern = {
     rust = { "class[=:]%s*[\"']([^\"']+)[\"']" },
